@@ -1,5 +1,5 @@
 import tensorflow as tf
-# from text import symbols
+from text import symbols
 
 
 def create_hparams(hparams_string=None, verbose=False):
@@ -45,22 +45,22 @@ def create_hparams(hparams_string=None, verbose=False):
         ################################
         # Model Parameters             #
         ################################ len(symbols.kor_symbols)
-        n_symbols= 80, 
-        symbols_embedding_dim=256,
+        n_symbols= len(symbols.kor_symbols),
+        symbols_embedding_dim=512,
 
         # Encoder parameters
         encoder_kernel_size=5,
         encoder_n_convolutions=3,
-        encoder_embedding_dim=256,
+        encoder_embedding_dim=512,
 
         # Decoder parameters
         n_frames_per_step=1,  # currently only 1 is supported
-        decoder_rnn_dim=512,
+        decoder_rnn_dim=1024,
         prenet_dim=256,
         max_decoder_steps=1000,
         gate_threshold=0.5,
-        p_attention_dropout=0.1,
-        p_decoder_dropout=0.1,
+        p_attention_dropout=0.4,
+        p_decoder_dropout=0.4,
 
         # Attention parameters
         attention_rnn_dim=1024,
