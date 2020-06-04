@@ -1,0 +1,8 @@
+*.wav
+*.pt
+checkpoint*
+events*
+./datasets
+datasets
+ljs_dataset_folder
+wget-log
