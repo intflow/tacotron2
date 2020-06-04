@@ -6,3 +6,4 @@ events*
 datasets
 ljs_dataset_folder
 wget-log
+*.log
