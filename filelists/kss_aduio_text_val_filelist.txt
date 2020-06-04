@@ -1,0 +1,521 @@
+datasets/kss/2/2_0258.wav|신발 끈이 안 풀리게 단단히 묶어라.
+datasets/kss/4/4_3333.wav|딱 1킬로미터만 뛰자.
+datasets/kss/3/3_3464.wav|이 시계 국산이야, 외제야?
+datasets/kss/3/3_0738.wav|약 기운이 나타나는 것 같아.
+datasets/kss/4/4_5099.wav|좀 이따 찾으러 올 테니까 이 짐 좀 잠시 맡아 줄래?
+datasets/kss/4/4_5460.wav|여행사가 모든 여행 준비를 알아서 해 줬어요.
+datasets/kss/3/3_1516.wav|예진이에게 도와 달라고 했는데 냉정하게 거절하더라.
+datasets/kss/3/3_0383.wav|청소기 어디에 뒀어?
+datasets/kss/1/1_0578.wav|나는 내가 그녀를 많이 사랑한다는 걸 깨달았다.
+datasets/kss/4/4_0725.wav|그냥 네 칫솔만 챙겨. 치약은 내 것을 쓰면 돼.
+datasets/kss/3/3_1665.wav|그녀는 내 물음에 답하지 않았다.
+datasets/kss/3/3_3349.wav|축산물 시장 개방으로 국내 축산 농가들이 어려움을 겪고 있다.
+datasets/kss/4/4_1014.wav|드디어 끝났구나.
+datasets/kss/4/4_0436.wav|술에 취하면 본성이 나타난다.
+datasets/kss/4/4_1572.wav|이 사건의 담당 검사가 누구죠?
+datasets/kss/4/4_4645.wav|먼저 구체적인 목표를 세워.
+datasets/kss/4/4_2418.wav|토마토는 과일이 아니에요.
+datasets/kss/4/4_5272.wav|감기는 현대 의학으로 고칠 수가 없다.
+datasets/kss/2/2_0546.wav|정부는 여론을 무시한 데 대해 비싼 대가를 치러야 했다.
+datasets/kss/4/4_4365.wav|누구 만나러 오셨어요?
+datasets/kss/3/3_3967.wav|호랑이는 아시아에 살아요.
+datasets/kss/3/3_0660.wav|절벽에서 뛰어내리는 게 별로 재미있을 것 같지 않아요.
+datasets/kss/3/3_4701.wav|그건 단순히 이기고 지는 문제가 아니야.
+datasets/kss/4/4_0074.wav|아이들은 차의 앞 좌석에 앉히면 안 됩니다.
+datasets/kss/4/4_1059.wav|말씀 많이 들었습니다.
+datasets/kss/1/1_0555.wav|일본은 독도를 자기 땅이라고 주장하고 있다.
+datasets/kss/3/3_4702.wav|이 카메라는 사용이 간단합니다.
+datasets/kss/3/3_3135.wav|국경 방어가 우리에게 주어진 막중한 임무입니다.
+datasets/kss/3/3_2954.wav|양국은 국경이 접해 있습니다.
+datasets/kss/4/4_0381.wav|네 머리는 빗이 좋아야 해.
+datasets/kss/2/2_0612.wav|시간은 돈보다 더 소중합니다.
+datasets/kss/1/1_0159.wav|어쩌다 다친 거야?
+datasets/kss/3/3_0898.wav|걱정이 있어서 가슴이 답답해요.
+datasets/kss/3/3_0380.wav|바닥 쓸었니?
+datasets/kss/4/4_5332.wav|제가 왜 이 남자랑 결혼했는지 모르겠어요.
+datasets/kss/3/3_1688.wav|신속한 답변을 주시면 고맙겠습니다.
+datasets/kss/3/3_0010.wav|성별에 따른 임금 차이가 아직 있다.
+datasets/kss/3/3_1482.wav|저는 유머러스한 남자가 좋아요.
+datasets/kss/1/1_0296.wav|선생님은 우리들에게 독서의 중요성을 늘 강조하셨어요.
+datasets/kss/2/2_0691.wav|네가 없으니 너무 쓸쓸해.
+datasets/kss/4/4_2758.wav|그 사람은 늘 자기 자식 자랑을 해요.
+datasets/kss/4/4_4320.wav|이번 공연은 야외에서 펼쳐질 거예요.
+datasets/kss/3/3_2014.wav|또 햄버거로 끼니를 때우는 거야?
+datasets/kss/1/1_0176.wav|블라우스에 브로치를 달았다.
+datasets/kss/4/4_0904.wav|찌개가 너무 달아요.
+datasets/kss/4/4_0335.wav|이 컴퓨터에 시작 버튼이 어디 있어요?
+datasets/kss/4/4_4114.wav|내 생각에는 외로움을 달래는 데는 TV만 한 게 없는 거 같아.
+datasets/kss/3/3_4021.wav|결혼 10주년
+datasets/kss/3/3_1760.wav|입이 거친 사람이랑 가까이하지 마.
+datasets/kss/4/4_1785.wav|이 호수는 깊이가 어떻게 되나요?
+datasets/kss/4/4_2708.wav|저는 잠자리가 바뀌면 잠을 잘 못 자요.
+datasets/kss/3/3_1731.wav|엄마는 가끔 내가 먹고 싶지 않은 걸 먹으라고 강요한다.
+datasets/kss/3/3_1484.wav|그 여자는 자기가 잘난 줄 알아.
+datasets/kss/4/4_5220.wav|여기서 너를 만나다니 정말 뜻밖인데!
+datasets/kss/3/3_0840.wav|이건 제가 제일 아끼는 그림이에요.
+datasets/kss/3/3_2533.wav|동물 실험은 이미 완료되었습니다.
+datasets/kss/2/2_0470.wav|그 소식에 가슴이 벅차서 한숨도 못 잤어요.
+datasets/kss/3/3_2901.wav|문의 팻말에는 "관계자 외 출입금지"라고 쓰여 있었다.
+datasets/kss/4/4_3876.wav|나중에 보자.
+datasets/kss/3/3_3760.wav|제 차는 수리를 맡겼어요.
+datasets/kss/3/3_1494.wav|저는 그 사람이 그렇게 유명한 축구 선수인지 몰랐어요.
+datasets/kss/4/4_5619.wav|군대는 육군과 공군, 해군으로 이루어진다.
+datasets/kss/3/3_4744.wav|그 예는 적절하지 않아요.
+datasets/kss/3/3_1798.wav|그는 친구들에게 입에 침이 마르도록 며느리 칭찬을 했다.
+datasets/kss/3/3_1488.wav|그녀는 훌륭한 교사다.
+datasets/kss/1/1_0975.wav|수학이라면 저를 따라올 사람이 없어요.
+datasets/kss/4/4_0689.wav|그 일은 제가 처리할게요.
+datasets/kss/3/3_4551.wav|세월 참 빠르네.
+datasets/kss/4/4_2619.wav|이따가 다시 전화할게.
+datasets/kss/3/3_0308.wav|새벽에 잠이 깨서 다시 못 잤어요.
+datasets/kss/4/4_4600.wav|수술은 성공적이었어요. 걱정 마세요.
+datasets/kss/3/3_2724.wav|단 하나, 돈을 빠뜨렸어.
+datasets/kss/4/4_5458.wav|이 여관은 서비스가 별로예요.
+datasets/kss/4/4_3362.wav|우리 가족은 피부가 까만 편이에요.
+datasets/kss/2/2_0415.wav|지진 속에서도 그 건물만은 무사했다.
+datasets/kss/4/4_0334.wav|버터 좀 더 주시겠어요?
+datasets/kss/1/1_0124.wav|내일 댁으로 찾아가겠습니다.
+datasets/kss/3/3_3721.wav|시청 오른쪽에 지하도가 있어요.
+datasets/kss/4/4_4767.wav|그 문제는 생각하기도 싫어.
+datasets/kss/4/4_3885.wav|왜 이리 난리야?
+datasets/kss/3/3_0376.wav|옷이 왜 그렇게 더러워?
+datasets/kss/4/4_1392.wav|가을은 제가 가장 좋아하는 계절이에요.
+datasets/kss/4/4_5471.wav|여권을 좀 볼 수 있을까요?
+datasets/kss/3/3_3151.wav|북한은 여러 다양한 대량 살상 무기를 갖고 있는 것으로 알려져 있다.
+datasets/kss/1/1_0487.wav|머리가 너무 귀찮아. 너무 빨리 자라.
+datasets/kss/2/2_0141.wav|어떤 것도 생명보다 귀중하지는 않습니다.
+datasets/kss/3/3_2354.wav|사귀는 사람이 있어요.
+datasets/kss/4/4_0961.wav|시어머니가 다녀가신 후로 기분이 우울해요.
+datasets/kss/3/3_2670.wav|아니요, 여기 자리 비었어요.
+datasets/kss/3/3_3213.wav|저도 이 모임에 참여하고 싶어요.
+datasets/kss/3/3_4925.wav|누구한테 물어보면 제일 좋을까요?
+datasets/kss/3/3_4933.wav|구석 자리에 앉읍시다.
+datasets/kss/2/2_1113.wav|우리는 첫 경기에서 허무하게 졌다.
+datasets/kss/4/4_4310.wav|저희는 훌륭한 품질을 보장합니다.
+datasets/kss/3/3_1551.wav|여기 다시 나타나다니 참 뻔뻔하구나
+datasets/kss/3/3_0149.wav|그는 무릎을 꿇고 용서를 빌었다.
+datasets/kss/2/2_0787.wav|이 식물은 열악한 환경에서도 잘 자란다.
+datasets/kss/3/3_0052.wav|저는 말띠예요.
+datasets/kss/3/3_4164.wav|매일 일기를 써라.
+datasets/kss/2/2_0970.wav|연설은 너무 길고 지루했다.
+datasets/kss/2/2_0222.wav|저는 낯선 사람하고 있을 때는 보통 말을 잘 안 해요.
+datasets/kss/2/2_0320.wav|왜 밖이 이렇게 떠들썩해?
+datasets/kss/2/2_0070.wav|저는 피부가 건조한 편이에요.
+datasets/kss/3/3_2114.wav|물을 좀 더 부어 봐.
+datasets/kss/4/4_4523.wav|소비자의 생각을 이해하지 못하면 살아남을 수 없어요.
+datasets/kss/4/4_0468.wav|난 언젠가 부자가 될 거야.
+datasets/kss/4/4_5002.wav|우리 학교는 지난달에 경주로 수학여행을 갔었어요.
+datasets/kss/3/3_2980.wav|당 대표들은 전국을 돌며 유세를 펼치고 있다.
+datasets/kss/4/4_0541.wav|인천 공항부터 서울까지 얼마나 걸려요?
+datasets/kss/3/3_0748.wav|부작용이 있으면 즉시 복용을 중단하세요.
+datasets/kss/3/3_4425.wav|책의 두께가 얇군요.
+datasets/kss/3/3_3504.wav|이 프로그램은 과도한 채무 부담을 경감하기 위해 만들어졌습니다.
+datasets/kss/4/4_5446.wav|저는 등에도 여드름이 났어요.
+datasets/kss/3/3_5003.wav|두근거리다
+datasets/kss/3/3_4489.wav|시험까지 일주일 남았다.
+datasets/kss/3/3_0887.wav|아들 녀석은 공부랑은 담을 쌓았어요.
+datasets/kss/2/2_0067.wav|건강한 신체에 건전한 정신
+datasets/kss/3/3_3230.wav|이 위기를 극복해야 한다.
+datasets/kss/3/3_2536.wav|실험 기구는 조심해서 다뤄야 한다.
+datasets/kss/3/3_3216.wav|이 사이트에서 회원 탈퇴를 하고 싶습니다.
+datasets/kss/4/4_1802.wav|기사님이 오후 세 시쯤 방문하실 겁니다.
+datasets/kss/3/3_3212.wav|대학에 가면 사진 동아리에 들고 싶어요.
+datasets/kss/4/4_4900.wav|컴퓨터를 오래 하고 나면 손목이 아파요.
+datasets/kss/1/1_0579.wav|사과 깎을 줄 알아?
+datasets/kss/4/4_4478.wav|산책하기에 좋은 날씨네요.
+datasets/kss/3/3_4758.wav|저는 기차로 출퇴근하는 데 익숙합니다.
+datasets/kss/3/3_4503.wav|몽땅 다 먹은 거야?
+datasets/kss/4/4_4044.wav|저 노래 잘 못해요.
+datasets/kss/4/4_0469.wav|이 약은 부작용이 없다.
+datasets/kss/3/3_0392.wav|내 옷에 단추 좀 달아 줄래?
+datasets/kss/3/3_3556.wav|매주 엽서 보낼게.
+datasets/kss/3/3_4411.wav|이 노트북은 무게가 얼마나 나가나요?
+datasets/kss/3/3_0316.wav|저는 밤마다 아기를 씻깁니다.
+datasets/kss/4/4_4128.wav|나는 네가 올바른 선택을 할 거라고 믿어.
+datasets/kss/3/3_1073.wav|모두들 이 규정을 인지하고 있습니까?
+datasets/kss/2/2_0079.wav|격렬한 운동은 하지 마세요.
+datasets/kss/4/4_4039.wav|이 빌딩 높이가 얼마나 되죠?
+datasets/kss/1/1_0133.wav|얼른 기운 차리셔야죠.
+datasets/kss/3/3_1931.wav|얼핏 봐도 그건 진짜가 아니야.
+datasets/kss/1/1_0993.wav|태양은 동쪽에서 떠서 서쪽으로 진다.
+datasets/kss/4/4_4037.wav|그 문제는 지금 논의 중이에요.
+datasets/kss/4/4_1781.wav|오늘은 일본의 지배에서 벗어난 것을 기념하는 날이에요.
+datasets/kss/2/2_0106.wav|네 고운 피부가 부러워.
+datasets/kss/4/4_1042.wav|부탁 좀 들어주시겠어요?
+datasets/kss/4/4_5001.wav|내 생각에는 수학이 모든 과목 중에서 제일 쉬워.
+datasets/kss/1/1_0495.wav|나는 주로 학교 생활에 관한 것들을 일기에 적는다.
+datasets/kss/4/4_0878.wav|여권을 잃어버려서 내일 대사관에 가야 해요.
+datasets/kss/1/1_0039.wav|화재가 발생하지 않도록 조심해라.
+datasets/kss/3/3_2928.wav|관객들이 배우들에게 열광적으로 박수를 보냈다.
+datasets/kss/4/4_4950.wav|방이 썰렁한데 불 좀 넣을까?
+datasets/kss/4/4_5318.wav|이제 다음 문제를 맞히시면, 우승하시게 됩니다.
+datasets/kss/3/3_0264.wav|바람이 차니 따뜻하게 입어라.
+datasets/kss/4/4_2024.wav|권투 시합 어떻게 됐어요?
+datasets/kss/1/1_0491.wav|머리 잘랐어?
+datasets/kss/2/2_1004.wav|그 건물은 그들의 찬란했던 과거의 마지막 유물이다.
+datasets/kss/3/3_2259.wav|저는 2남 1녀 중 막내예요.
+datasets/kss/4/4_5143.wav|10톤이 넘는 트럭은 이 도로를 이용할 수 없습니다.
+datasets/kss/3/3_4501.wav|여러분 모두 이것에 동의하세요?
+datasets/kss/4/4_0551.wav|벼는 가뭄에 약하다.
+datasets/kss/4/4_4395.wav|이 두 색 중에 어느 게 나아?
+datasets/kss/1/1_0334.wav|보통 하루에 몇 시간 근무하세요?
+datasets/kss/4/4_2542.wav|한국의 인삼은 전 세계적으로 유명하다.
+datasets/kss/4/4_0507.wav|여기는 주차하기가 불편해요.
+datasets/kss/4/4_0519.wav|내 두 눈으로 분명히 봤어.
+datasets/kss/3/3_1940.wav|이 책은 요즘 날개 돋친 듯 팔리고 있어요.
+datasets/kss/3/3_3796.wav|열차가 출입문 고장으로 한 시간 가량 지연되었다.
+datasets/kss/4/4_0883.wav|다음 버스는 5분 후에 출발합니다.
+datasets/kss/3/3_3430.wav|소득 신고 했어?
+datasets/kss/4/4_3842.wav|창밖을 내다보지 마.
+datasets/kss/3/3_3989.wav|다음 주에 봐요.
+datasets/kss/4/4_3335.wav|이곳은 아이들을 키우기에 좋은 환경이 아니에요.
+datasets/kss/4/4_3487.wav|매운 음식은 몸에 좋지 않아요.
+datasets/kss/2/2_1115.wav|이 길은 험해서 운전하기가 쉽지 않아.
+datasets/kss/3/3_2865.wav|이 피아니스트는 베토벤의 소나타를 모두 녹음했다.
+datasets/kss/4/4_3437.wav|사실 코끼리는 순한 동물이 아닙니다.
+datasets/kss/4/4_3681.wav|목을 거의 움직일 수가 없어요.
+datasets/kss/2/2_0363.wav|어디서 이렇게 맛있는 냄새가 나는 거지?
+datasets/kss/4/4_5153.wav|이번 달 말에 두 부서를 통합할 예정입니다.
+datasets/kss/3/3_3776.wav|65세 이상은 지하철 운임이 무료다.
+datasets/kss/4/4_3590.wav|따뜻하게 맞아 주셔서 감사합니다.
+datasets/kss/2/2_0997.wav|저는 성격이 차분한 편이에요.
+datasets/kss/3/3_3642.wav|모니터는 1년간 품질 보증이 됩니다.
+datasets/kss/3/3_1348.wav|이 옷 입으니까 나 뚱뚱해 보이지 않아?
+datasets/kss/4/4_3391.wav|전화가 끊기면 제가 다시 걸죠.
+datasets/kss/4/4_5132.wav|이 의자는 아주 튼튼해요.
+datasets/kss/2/2_0554.wav|당신이 여태껏 들은 말 중에 제일 뻔한 거짓말은 무엇입니까?
+datasets/kss/3/3_3734.wav|운전자가 누구였어요?
+datasets/kss/4/4_4747.wav|죄송하지만, 선생님의 계획은 실현 가능성이 없는 것 같습니다.
+datasets/kss/3/3_0057.wav|아이들이 바깥에서 눈사람을 만들고 있다.
+datasets/kss/3/3_4813.wav|말대꾸하지 마라.
+datasets/kss/4/4_1914.wav|9번 문제의 답이 뭐니?
+datasets/kss/4/4_5327.wav|어제 길에서 우연히 고등학교 때 담임 선생님을 만났어요.
+datasets/kss/2/2_1125.wav|여덟 시가 다 되었는데도 밖은 아직 환해요.
+datasets/kss/4/4_1118.wav|초등학교 동창들하고 아직 연락하고 지내니?
+datasets/kss/1/1_0272.wav|이 얼룩을 없앨 수 있을까요?
+datasets/kss/4/4_2143.wav|오늘은 햇볕이 좋아서 빨래가 잘 마를 것 같네.
+datasets/kss/4/4_0870.wav|김치는 한국의 대표적인 음식이에요.
+datasets/kss/3/3_0729.wav|체온을 재겠습니다.
+datasets/kss/3/3_0807.wav|자존심이 강한 사람은 대개 일을 열심히 한다.
+datasets/kss/1/1_0009.wav|사흘 동안 심하게 몸살을 앓았어요.
+datasets/kss/3/3_1559.wav|고집 부리지 마라.
+datasets/kss/4/4_3833.wav|내가 한 일에 책임을 질게.
+datasets/kss/4/4_0527.wav|미리 불안해할 필요 없어.
+datasets/kss/2/2_0606.wav|어느 아름다운 모델이 섹시한 포즈를 취하고 있다.
+datasets/kss/3/3_0260.wav|빵이 말라서 딱딱해졌다.
+datasets/kss/4/4_0020.wav|결혼 앨범 좀 보자.
+datasets/kss/3/3_1190.wav|숙제는 스스로 해라.
+datasets/kss/4/4_4750.wav|그 여자는 실제 나이보다 훨씬 어려 보여.
+datasets/kss/4/4_3939.wav|이 의자는 저한테 너무 낮아요.
+datasets/kss/3/3_0005.wav|아기 이름은 수현이라고 지었어요.
+datasets/kss/2/2_0273.wav|그는 체격이 당당하다.
+datasets/kss/3/3_0025.wav|저는 평생을 독신으로 살 생각입니다.
+datasets/kss/3/3_2431.wav|종이 두 장
+datasets/kss/3/3_1272.wav|비가 와서 게임이 중단되었다.
+datasets/kss/3/3_1125.wav|선생님 말씀에 좀 더 주의를 기울여라.
+datasets/kss/1/1_0253.wav|그녀는 나를 보자마자 차의 방향을 돌렸다.
+datasets/kss/3/3_3679.wav|제 블로그 조회 수는 하루 500회 정도 됩니다.
+datasets/kss/3/3_2349.wav|그만 싸우고 화해해.
+datasets/kss/2/2_0833.wav|그는 웬만한 일로는 화를 내지 않는다.
+datasets/kss/4/4_3099.wav|이 지역은 바람이 세고 짙은 안개가 끼는 날이 많아요.
+datasets/kss/4/4_0905.wav|셔츠에 단추를 다는 중이에요.
+datasets/kss/1/1_0610.wav|겨우 3개 맞혔어.
+datasets/kss/4/4_2598.wav|그렇게 해서 이로울 게 없어요.
+datasets/kss/3/3_2821.wav|공격이 최선의 방어다.
+datasets/kss/3/3_1511.wav|왜 그렇게 까다롭게 구니?
+datasets/kss/4/4_3338.wav|할 일 없으면 마늘 좀 까라.
+datasets/kss/2/2_0082.wav|그녀는 경쾌하게 위층으로 뛰어 올라갔다.
+datasets/kss/4/4_2036.wav|결과적으로는 오히려 잘됐어.
+datasets/kss/3/3_1461.wav|리더가 되려면 능동적인 성격을 갖춰야 한다.
+datasets/kss/4/4_3310.wav|졸리면 커피를 좀 마셔 봐.
+datasets/kss/3/3_3693.wav|깜빡이도 지시등도 안 켜고 당신이 차선을 바꿨잖아요.
+datasets/kss/3/3_0567.wav|오래 쪼그리고 앉아 있었더니 다리에 쥐가 나요.
+datasets/kss/4/4_0813.wav|나 드디어 취직했어!
+datasets/kss/3/3_1854.wav|국제연합의 공식 언어는 아랍어, 중국어, 영어, 불어, 러시아어, 스페인어이다.
+datasets/kss/3/3_4649.wav|설사 알고 있어도 말하지 않겠어.
+datasets/kss/4/4_2570.wav|공군에 입대할까 생각 중이에요.
+datasets/kss/4/4_2549.wav|인쇄하기 전에 종이가 있는지 확인했어?
+datasets/kss/2/2_0343.wav|그는 할아버지로부터 막대한 재산을 물려받았다.
+datasets/kss/4/4_3454.wav|이제 떠날 시간이야.
+datasets/kss/4/4_3913.wav|나눠서 계산하자.
+datasets/kss/4/4_1181.wav|우리 집 뒤에는 주차장이 있어요.
+datasets/kss/4/4_2356.wav|걔는 늘 활기가 넘쳐서 좋아.
+datasets/kss/2/2_0196.wav|정말 끈질긴 분이시군요.
+datasets/kss/4/4_4246.wav|침대가 참 포근해요.
+datasets/kss/3/3_0737.wav|일단 상처 부위를 알코올로 소독하겠습니다.
+datasets/kss/2/2_0687.wav|커피가 너무 써.
+datasets/kss/4/4_2473.wav|운동은 제 생활의 일부예요.
+datasets/kss/3/3_4141.wav|미리 알려 주세요.
+datasets/kss/3/3_4565.wav|그런대로 괜찮아.
+datasets/kss/2/2_0128.wav|사랑은 때때로 굉장한 용기를 요합니다.
+datasets/kss/3/3_2440.wav|저는 일곱 살에 초등학교에 입학했어요.
+datasets/kss/3/3_4612.wav|최대한 협조하겠습니다.
+datasets/kss/4/4_3797.wav|서두르면 기차를 탈 수 있을 거야.
+datasets/kss/3/3_2208.wav|지붕은 비, 열, 햇빛, 바람을 막는다.
+datasets/kss/4/4_4316.wav|비 온 뒤 하늘은 푸르네요.
+datasets/kss/3/3_4229.wav|오늘따라 시간이 더디게 가는 것 같아요.
+datasets/kss/3/3_4225.wav|흐르는 시간을 멈출 수는 없어.
+datasets/kss/3/3_1890.wav|어제 산 이 티셔츠를 교환하고 싶은데요.
+datasets/kss/2/2_0059.wav|걔는 말만 거창하게 하고 실천은 안 해.
+datasets/kss/4/4_4877.wav|솔직히 말해서 저는 제 외모에 별로 자신이 없어요.
+datasets/kss/3/3_0414.wav|제 손 꽉 잡으세요.
+datasets/kss/4/4_4638.wav|세수해도 상관없어요?
+datasets/kss/3/3_2377.wav|딸아이가 통 시집갈 생각을 안 해요.
+datasets/kss/1/1_0206.wav|저희 가게는 밤 10시에 문을 닫습니다.
+datasets/kss/4/4_0616.wav|도와 달라는 그 사람의 부탁을 차마 거절할 수가 없었어요.
+datasets/kss/3/3_0831.wav|정성이 담긴 선물로 당신의 사랑을 표현하세요.
+datasets/kss/4/4_4847.wav|너희 농장에는 소가 있니?
+datasets/kss/3/3_4514.wav|시간이 모든 것을 해결해 줄 거야.
+datasets/kss/4/4_4442.wav|이 서류에 사인해 주세요.
+datasets/kss/2/2_0699.wav|그 책은 제 거 아니에요.
+datasets/kss/4/4_1864.wav|화장실은 공동으로 사용합니다.
+datasets/kss/3/3_2330.wav|우리는 먹기 위해 사는 걸까? 아니면 살기 위해 먹는 걸까?
+datasets/kss/3/3_2581.wav|우리 회사는 새로운 인재를 찾고 있습니다.
+datasets/kss/4/4_4608.wav|물은 더러운 것을 깨끗하게 만드는 성질이 있다.
+datasets/kss/4/4_2514.wav|임산부에게 자리를 양보합시다.
+datasets/kss/3/3_4320.wav|얼음, 눈, 수증기는 물의 다른 형태들이다.
+datasets/kss/4/4_3028.wav|어느 후보를 지지하세요?
+datasets/kss/1/1_0499.wav|이 서류들을 알파벳 순으로 정리하세요.
+datasets/kss/3/3_4871.wav|난 괜찮아. 그러니까 말해 봐.
+datasets/kss/1/1_0983.wav|좋은 추억을 많이 가지고 한국을 떠나셨으면 좋겠네요.
+datasets/kss/3/3_2950.wav|현재 우리나라의 인구는 5천만이 넘는다.
+datasets/kss/2/2_0421.wav|인터넷에 그에 대한 소문이 무성하다.
+datasets/kss/2/2_0946.wav|저는 시어머니와 사이가 좋아요.
+datasets/kss/4/4_5216.wav|회의 중에는 자리를 뜨지 마세요.
+datasets/kss/4/4_5573.wav|제 예상보다 훨씬 어려웠어요.
+datasets/kss/4/4_0892.wav|비가 안 와서 다행이에요.
+datasets/kss/3/3_4197.wav|새벽 한 시에서 두 시 사이였을 거예요.
+datasets/kss/3/3_1804.wav|너랑 의논할 게 있어.
+datasets/kss/2/2_0712.wav|허리가 몹시 아파요.
+datasets/kss/1/1_0154.wav|소주 5병에 결국 취하고 말았다.
+datasets/kss/3/3_0263.wav|이 소파는 푹신푹신하고 편하다.
+datasets/kss/3/3_3653.wav|정전이 되는 바람에 파일들이 모두 날아갔다.
+datasets/kss/4/4_4832.wav|기차가 십 분 후에 출발합니다.
+datasets/kss/4/4_3444.wav|저희 프로그램에는 다양한 코너가 있습니다.
+datasets/kss/4/4_2074.wav|계산기 좀 빌릴 수 있을까요?
+datasets/kss/3/3_0780.wav|다음 주에 치과에 가서 사랑니를 뽑을 거예요.
+datasets/kss/3/3_1799.wav|선수들에게 격려의 박수를 부탁드립니다.
+datasets/kss/3/3_1360.wav|그 여자는 키가 작고 약간 통통한 편이다.
+datasets/kss/3/3_2504.wav|취직 시험에서 또 물을 먹었어요.
+datasets/kss/3/3_4660.wav|당신을 대신할 사람은 많아요.
+datasets/kss/1/1_0834.wav|이 문제를 못 풀겠어.
+datasets/kss/3/3_4782.wav|소영아!
+datasets/kss/4/4_2003.wav|나이에 관계없이 누구나 지원할 수 있습니다.
+datasets/kss/3/3_4650.wav|비록 짧은 시간이었지만 그곳에서 만든 추억은 영원할 거예요.
+datasets/kss/3/3_1477.wav|정민이는 늘 활기가 넘쳐.
+datasets/kss/4/4_0478.wav|통일이 된다면 북한을 자유롭게 갈 수 있을 거야.
+datasets/kss/4/4_3417.wav|그 개는 주인이 나타나면 꼬리를 흔든다.
+datasets/kss/3/3_2378.wav|언제 청첩장을 돌려야 할지 모르겠어요.
+datasets/kss/3/3_1158.wav|최선을 다해 돕겠습니다.
+datasets/kss/4/4_4349.wav|그 사람은 진지한 표정으로 농담을 해요.
+datasets/kss/1/1_0530.wav|제 노트 좀 집어 주시겠어요?
+datasets/kss/3/3_3607.wav|당국은 그 보도를 완강하게 부인하고 있다.
+datasets/kss/3/3_0698.wav|이 약을 먹으면 고통이 덜해질 겁니다.
+datasets/kss/4/4_4066.wav|지금 당장 내 눈앞에서 사라져!
+datasets/kss/1/1_0779.wav|합격을 위해 정말 열심히 노력했어.
+datasets/kss/3/3_0604.wav|저에게는 돌아갈 고향이 없어요.
+datasets/kss/4/4_1289.wav|어머니는 제가 어서 결혼하기를 바라세요.
+datasets/kss/4/4_4875.wav|속도를 줄이시오.
+datasets/kss/3/3_0648.wav|실내에서 뛰어다니지 마세요.
+datasets/kss/3/3_4128.wav|드디어 우리가 떠날 날이 왔다.
+datasets/kss/2/2_0056.wav|고요한 밤 거룩한 밤
+datasets/kss/3/3_4683.wav|그 둘 사이에는 뚜렷한 차이가 있다.
+datasets/kss/1/1_0836.wav|그 문제는 의외로 쉽게 풀렸어.
+datasets/kss/3/3_1310.wav|네 꼴 보기 싫어!
+datasets/kss/4/4_3381.wav|신발 끌지 마.
+datasets/kss/4/4_4532.wav|사실, 서울을 떠나 본 적이 거의 없어요.
+datasets/kss/4/4_3119.wav|요즘 점점 살이 찌고 있어요.
+datasets/kss/3/3_0055.wav|여보, 아기 기저귀 좀 갈아 줘.
+datasets/kss/4/4_5070.wav|커피 타 줄까?
+datasets/kss/3/3_4091.wav|당일에 신분증을 지참하셔야 합니다.
+datasets/kss/3/3_2685.wav|카메라 렌즈 초점을 맞춰 봐.
+datasets/kss/3/3_4914.wav|먼저 가세요. 곧 따라갈게요.
+datasets/kss/1/1_1037.wav|우리 부모님은 저한테 너무 많은 것을 요구하세요.
+datasets/kss/4/4_1954.wav|나는 국내 영화보다 외국 영화가 더 좋아.
+datasets/kss/4/4_2018.wav|귀신 믿으세요?
+datasets/kss/3/3_4946.wav|부탁 하나 해도 될까요?
+datasets/kss/4/4_5502.wav|영어 할 줄 아세요?
+datasets/kss/4/4_0419.wav|복숭아 빨리 안 먹으면 상해.
+datasets/kss/3/3_4594.wav|두 시경에 점심을 먹었어요.
+datasets/kss/2/2_0955.wav|스트레스는 암의 주요한 원인 중 하나다.
+datasets/kss/4/4_4800.wav|신고할 게 없습니다.
+datasets/kss/3/3_0186.wav|저는 젖이 안 나와서 아들한테 분유를 먹일 수밖에 없었어요.
+datasets/kss/2/2_0707.wav|엄마한테 말해 봤자 아무런 소용도 없어요.
+datasets/kss/3/3_4380.wav|이 바지는 나한테는 너무 길어.
+datasets/kss/3/3_2212.wav|그 가구는 아주 현대적인 것 같아.
+datasets/kss/2/2_0004.wav|우리의 승리는 기적에 가까웠다.
+datasets/kss/3/3_0724.wav|방금 검사 결과가 나왔습니다.
+datasets/kss/3/3_1297.wav|천천히 하세요. 급할 것 없어요.
+datasets/kss/3/3_3786.wav|다음 열차는 몇 시에 있어요?
+datasets/kss/2/2_0903.wav|그 사람은 내가 아는 제일 재미없는 사람이에요.
+datasets/kss/3/3_3811.wav|배는 어떻게 떠 있을 수 있을까?
+datasets/kss/3/3_2840.wav|내 어린 조카는 만화 주인공처럼 생겼다.
+datasets/kss/2/2_0239.wav|그 영화는 비평가들에게 높은 평가를 받았다.
+datasets/kss/4/4_0750.wav|그 결정은 우리가 할 수 있는 최상의 선택이야.
+datasets/kss/4/4_4797.wav|그릇들을 싱크대로 옮겨 줄래?
+datasets/kss/4/4_0156.wav|그 사람은 아버지는 흑인이고 어머니는 백인입니다.
+datasets/kss/3/3_1891.wav|나는 보통 겨울용 스웨터를 여름에 산다.
+datasets/kss/3/3_3302.wav|내가 정신이 나갔었나 봐.
+datasets/kss/4/4_0242.wav|그녀는 따뜻한 미소로 우리를 반겨 주었다.
+datasets/kss/3/3_3546.wav|영어로 의사를 전달하지 못해 답답했어요.
+datasets/kss/4/4_4582.wav|누가 이것을 영어로 설명 좀 해 주시겠어요?
+datasets/kss/4/4_0034.wav|다행이다! 아직 안 갔구나!
+datasets/kss/4/4_4770.wav|상처가 생각보다 훨씬 심하구나.
+datasets/kss/3/3_2728.wav|그 차는 어둠 속으로 사라졌다.
+datasets/kss/4/4_1930.wav|이 문장은 구조가 좀 이상한데.
+datasets/kss/3/3_4717.wav|2010년 아이티에서 강력한 지진이 발생했다.
+datasets/kss/3/3_4236.wav|졸업한 지 3년이 지났어요.
+datasets/kss/4/4_0442.wav|어머니 잘 보살펴라.
+datasets/kss/4/4_5629.wav|일찍 신청하는 사람이 유리할 거야.
+datasets/kss/4/4_3782.wav|너희 아빠는 무슨 일을 하시니?
+datasets/kss/4/4_0762.wav|총 가격이 얼마예요?
+datasets/kss/4/4_5224.wav|이 두 단어는 띄어야 해요.
+datasets/kss/3/3_1590.wav|강연 잘 들었습니다.
+datasets/kss/3/3_0695.wav|증세가 어때요?
+datasets/kss/1/1_0449.wav|그는 바닥을 짚고 간신히 일어섰다.
+datasets/kss/4/4_0981.wav|그 가게는 밤 열 시에 문을 닫는다.
+datasets/kss/2/2_0968.wav|이 지독한 냄새는 어디서 나는 거야?
+datasets/kss/2/2_0578.wav|색다른 경험을 원하신다면, 당신은 제대로 찾아오신 겁니다.
+datasets/kss/3/3_0509.wav|실이 엉켜서 안 풀려요.
+datasets/kss/4/4_0027.wav|고양이는 아홉 개의 목숨을 가졌다는 말이 있다.
+datasets/kss/3/3_0310.wav|한 시간 뒤에 깨워 줄래?
+datasets/kss/4/4_0897.wav|우리 집은 닭을 길러요.
+datasets/kss/4/4_3946.wav|이게 네가 원하는 거니?
+datasets/kss/4/4_4474.wav|사무실로 안내해 드리겠습니다.
+datasets/kss/1/1_0995.wav|아침 7시에 눈을 떴어요.
+datasets/kss/3/3_4508.wav|한꺼번에 먹기에는 너무 많아.
+datasets/kss/3/3_3453.wav|저는 해외 무역 일을 하고 있어서 외국에 자주 나갑니다.
+datasets/kss/2/2_0057.wav|그 정책은 농민들의 거센 반발을 불러왔다.
+datasets/kss/3/3_3955.wav|꿀벌은 무리를 지어 산다.
+datasets/kss/3/3_3744.wav|이 도로에서 제한 속도는 시속 80킬로미터입니다.
+datasets/kss/4/4_4228.wav|다행히 피해가 크지는 않았어요.
+datasets/kss/4/4_2282.wav|누군가의 희생을 대가로 시합에 이기고 싶지는 않아요.
+datasets/kss/3/3_3905.wav|그 늪에는 온갖 곤충들이 산다.
+datasets/kss/3/3_1642.wav|만나서 반갑습니다.
+datasets/kss/3/3_1107.wav|베토벤의 정확한 사인을 규명하기 위해 많은 사람들이 노력하고 있다.
+datasets/kss/4/4_0240.wav|이번 방학 때 미국에 갈 거야.
+datasets/kss/3/3_2215.wav|팬티는 맨 아래 서랍에 있다.
+datasets/kss/3/3_4938.wav|출구 없음
+datasets/kss/3/3_4458.wav|13를 5로 나누면 몫은 2, 나머지는 3이다.
+datasets/kss/4/4_3588.wav|제 기억이 맞다면, 첫째, 셋째 수요일에 쉬어요.
+datasets/kss/2/2_0727.wav|저는 어릴 때 야한 영화를 몰래 보곤 했습니다.
+datasets/kss/4/4_1595.wav|맥주 거품은 걷어 내라.
+datasets/kss/4/4_5052.wav|저는 매주 수요일 저녁에 수업이 있어요.
+datasets/kss/4/4_2889.wav|경찰이 정확한 사고 원인을 조사하고 있어요.
+datasets/kss/2/2_0456.wav|그분은 예의가 참 바르다.
+datasets/kss/2/2_0617.wav|자는 것은 시간을 죽이는 가장 손쉬운 방법이다.
+datasets/kss/3/3_3381.wav|이 상품은 품질과 내구성 면에서 최고입니다.
+datasets/kss/4/4_1484.wav|부모님은 우리의 결혼을 강력하게 반대하셨어요.
+datasets/kss/3/3_1838.wav|그들은 전기가 끊길 거라고 우리에게 경고했다.
+datasets/kss/3/3_3454.wav|세관을 통과할 때 문제가 있었나요?
+datasets/kss/3/3_3694.wav|제 차 타이어가 펑크 났어요.
+datasets/kss/2/2_0902.wav|그 영화는 재미없고 게다가 엄청 길었다.
+datasets/kss/4/4_2964.wav|오늘은 할아버지 제사 때문에 집에 일찍 들어가야 해요.
+datasets/kss/3/3_3066.wav|그녀는 홀을 슬그머니 빠져나왔다.
+datasets/kss/3/3_0492.wav|문을 닫고 들어와라.
+datasets/kss/2/2_0515.wav|모두 저한테 불리한 증거들이에요.
+datasets/kss/4/4_2667.wav|아무 이유 없이 화면의 글자가 작아졌어요.
+datasets/kss/4/4_0210.wav|그 사람은 근육이 잘 발달되어 있다.
+datasets/kss/2/2_0312.wav|어제부터 목이 따가워요.
+datasets/kss/3/3_1243.wav|주방에는 조리 도구가 구비되어 있습니다.
+datasets/kss/3/3_3901.wav|그녀가 강물에 뛰어들었다.
+datasets/kss/3/3_2250.wav|엄마는 평범한 가정주부세요.
+datasets/kss/1/1_0722.wav|아내를 미국에 남겨 두고 혼자 한국에 왔습니다.
+datasets/kss/3/3_2761.wav|저는 스포츠를 보는 것도 좋아하고 하는 것도 좋아합니다.
+datasets/kss/4/4_3084.wav|그것 좀 집어 줄래?
+datasets/kss/4/4_0637.wav|엄마 상 차리는 것 좀 도와라.
+datasets/kss/2/2_0048.wav|저랑 수지는 작년에 같은 반이었어요.
+datasets/kss/3/3_0877.wav|저는 억울하게 직장에서 잘렸어요.
+datasets/kss/4/4_2434.wav|이것저것 샀어요.
+datasets/kss/4/4_3530.wav|신문지를 말아서 신발 안에 넣어 두세요.
+datasets/kss/3/3_3382.wav|김 대리가 제조 공정에 관해 설명해 드리겠습니다.
+datasets/kss/3/3_1083.wav|네 말은 앞뒤가 안 맞아.
+datasets/kss/4/4_2731.wav|저는 제 장인 어른을 존경합니다.
+datasets/kss/4/4_1815.wav|아들이 동물원에 가자고 졸랐다.
+datasets/kss/4/4_2472.wav|이 반에 일본인 학생이 있나요?
+datasets/kss/4/4_2116.wav|그 애가 하고 싶은 대로 하게 하세요.
+datasets/kss/4/4_0274.wav|흡연은 학생으로서 바람직한 행동이 아니다.
+datasets/kss/3/3_2007.wav|저는 맥주 마실래요.
+datasets/kss/4/4_3016.wav|배고파 죽을 지경이야.
+datasets/kss/3/3_1136.wav|물건들을 크기별로 나누어 줄래?
+datasets/kss/4/4_4550.wav|안경은 16세기에 중국에서 들어왔어요.
+datasets/kss/2/2_0982.wav|넌 짙은 색 옷이 잘 어울려.
+datasets/kss/3/3_1411.wav|나는 그녀의 소탈한 태도에 끌렸다.
+datasets/kss/2/2_1079.wav|남편과 저는 평화로운 시골 생활을 즐기고 있어요.
+datasets/kss/1/1_0528.wav|그 일은 계획한 대로 진행되고 있습니다.
+datasets/kss/4/4_0396.wav|간이 맞는지 맛 좀 봐 줘.
+datasets/kss/3/3_4798.wav|누나는 저만큼 만화를 좋아해요.
+datasets/kss/4/4_5577.wav|요즘에는 예식장 구하기가 하늘의 별 따기야.
+datasets/kss/2/2_1074.wav|모든 사람이 법 앞에서 평등하다.
+datasets/kss/3/3_0447.wav|그는 부하들에게 깊은 구덩이를 파도록 시켰다.
+datasets/kss/4/4_0957.wav|단풍 구경하러 갈까?
+datasets/kss/4/4_0782.wav|버스로 출근하세요?
+datasets/kss/4/4_2859.wav|인터넷 덕분에 전 세계 사람들하고 이야기할 수 있게 되었어요.
+datasets/kss/1/1_0899.wav|저녁 식사하셨어요?
+datasets/kss/4/4_3066.wav|아들 녀석이 올해 3학년으로 진급했어요.
+datasets/kss/3/3_3075.wav|당신을 체포합니다.
+datasets/kss/4/4_0815.wav|죄송하지만 주문을 취소하고 싶어요.
+datasets/kss/4/4_3656.wav|세 시에 중요한 미팅이 있어요.
+datasets/kss/4/4_4175.wav|삼촌은 오십 대 초반이세요.
+datasets/kss/3/3_1007.wav|이런 말 하기 쑥스럽지만, 저는 변비가 있어요.
+datasets/kss/4/4_3805.wav|설날과 추석은 한국에서 가장 중요한 명절이에요.
+datasets/kss/4/4_0634.wav|저는 겨울에도 찬물로 샤워를 해요.
+datasets/kss/3/3_4768.wav|요즘 중국어 공부를 하고 있어요.
+datasets/kss/3/3_3564.wav|운전 중 핸드폰 사용은 법으로 금지되어 있습니다.
+datasets/kss/4/4_4471.wav|저를 사위로 삼아 주십시오.
+datasets/kss/3/3_0282.wav|커피를 마시면 밤에 잠이 안 와요.
+datasets/kss/3/3_2614.wav|이 일은 제가 맡겠습니다.
+datasets/kss/2/2_0673.wav|우리는 심하게 싸운 후에 헤어졌다.
+datasets/kss/4/4_0710.wav|침착하시고 지금 위치를 말씀해 주세요.
+datasets/kss/4/4_3907.wav|내가 나뭇가지를 모아 올 테니까 너는 구멍을 파.
+datasets/kss/3/3_3909.wav|오늘 날씨 어때요?
+datasets/kss/4/4_1977.wav|과거의 실수를 반복하지 않을 거야.
+datasets/kss/4/4_5464.wav|어제 아홉 시간을 잤는데도 여전히 피곤해.
+datasets/kss/3/3_4981.wav|총액
+datasets/kss/1/1_0977.wav|나는 그 아름다운 여인에게서 눈을 뗄 수가 없었다.
+datasets/kss/4/4_0745.wav|지금까지 제가 한 여행 중에서 최고였어요.
+datasets/kss/4/4_0342.wav|비가 올 것 같아요.
+datasets/kss/1/1_0230.wav|그들의 음모가 드러나고 있다.
+datasets/kss/2/2_0822.wav|뭐가 그리 우습니?
+datasets/kss/4/4_2956.wav|저리 매너 없는 사람은 처음 봐요.
+datasets/kss/2/2_0155.wav|그녀가 한 말이 모두 그르다고는 할 수 없어요.
+datasets/kss/4/4_1324.wav|요즘 음반 중에는 열 곡 이상 들어 있는 경우가 드물어요.
+datasets/kss/3/3_2003.wav|사람들은 보통 피자를 콜라와 함께 먹는다.
+datasets/kss/3/3_3804.wav|기술적인 문제가 있어서 비행기가 뜰 수 없대요.
+datasets/kss/4/4_2701.wav|저는 가끔 책을 읽다 잠들어요.
+datasets/kss/4/4_3947.wav|네 말이 맞는 것 같아.
+datasets/kss/4/4_2939.wav|오늘 저녁으로 뭘 먹고 싶어요?
+datasets/kss/3/3_0211.wav|어떤 상황인지 사무실 안을 살짝 엿보고 와라.
+datasets/kss/4/4_3852.wav|거의 일주일 내내 허리가 아파.
+datasets/kss/4/4_4374.wav|저는 자전거로 회사에 갑니다.
+datasets/kss/3/3_0881.wav|저는 아무것도 하지 않고 앉아 있는 것을 싫어해요.
+datasets/kss/1/1_0467.wav|그 영화는 특수효과를 많이 이용해 만들어졌다.
+datasets/kss/3/3_3316.wav|의사 말로는 할머니가 3주 만에 깨어나신 건 기적이래요.
+datasets/kss/3/3_1276.wav|농담은 그만해.
+datasets/kss/3/3_3035.wav|사람들을 속일 의도는 없었어요.
+datasets/kss/3/3_3297.wav|저는 신을 믿지 않습니다.
+datasets/kss/3/3_3979.wav|안전을 위해 떼를 지어 사는 물고기들이 많다.
+datasets/kss/3/3_4943.wav|하든지 말든지 이제 상관 안 할래.
+datasets/kss/3/3_3424.wav|북한은 아직도 사회주의 체제를 유지하고 있다.
+datasets/kss/3/3_2696.wav|아파트 옆에는 큰 놀이터가 있습니다.
+datasets/kss/1/1_0554.wav|시간 죽이려고 영화 보고 있어요.
+datasets/kss/2/2_0978.wav|우리는 몇 시간 동안 진지한 대화를 나누었다.
+datasets/kss/4/4_4737.wav|걔만 빼고 식구들이 작년에 이민 갔대.
+datasets/kss/3/3_1998.wav|야채 볶을 때 식용유를 쓸까요, 버터를 쓸까요?
+datasets/kss/1/1_1024.wav|뭘 원해?
+datasets/kss/3/3_4510.wav|머릿속이 온통 담배 생각뿐이에요.
+datasets/kss/4/4_1867.wav|여기에는 열 명이 들어갈 만한 공간이 없어요.
+datasets/kss/3/3_3179.wav|정의는 우리 편이다.
+datasets/kss/4/4_1838.wav|고기 먹으러 가자.
+datasets/kss/4/4_2898.wav|이 책 정말 재미있어.
+datasets/kss/4/4_3283.wav|길 건너기 전에 좌우를 잘 살펴라.
+datasets/kss/4/4_0918.wav|그는 수업이 끝나자마자 집으로 달려갔다.
+datasets/kss/4/4_0063.wav|이가 아파서 아무것도 먹을 수가 없어요.
+datasets/kss/4/4_3357.wav|새 프로그램 깔기 전에 바이러스 검사하는 거 잊지 마.
+datasets/kss/3/3_2120.wav|잠시만 기다리세요. 주전자에 물을 끓이고 있어요.
+datasets/kss/4/4_1506.wav|배가 바다 속으로 가라앉았다.
+datasets/kss/4/4_3092.wav|여러분의 지속적인 관심 부탁드립니다.
+datasets/kss/4/4_2818.wav|적의 공격을 막아내자.
+datasets/kss/1/1_0406.wav|지금 당장은 할 일이 없어요.
+datasets/kss/3/3_2541.wav|네 기술은 프로 수준이다.
+datasets/kss/3/3_2804.wav|선수들은 심판의 판정을 존중해야 한다.

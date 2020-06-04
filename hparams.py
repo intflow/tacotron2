@@ -1,5 +1,5 @@
 import tensorflow as tf
-from text import symbols
+# from text import symbols
 
 
 def create_hparams(hparams_string=None, verbose=False):
@@ -10,7 +10,7 @@ def create_hparams(hparams_string=None, verbose=False):
         # Experiment Parameters        #
         ################################
         epochs=500,
-        iters_per_checkpoint=1000,
+        iters_per_checkpoint=500,
         seed=1234,
         dynamic_loss_scaling=True,
         fp16_run=False,
@@ -25,9 +25,10 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/ljs_audio_text_train_filelist.txt',
-        validation_files='filelists/ljs_audio_text_val_filelist.txt',
-        text_cleaners=['english_cleaners'],
+        training_files='filelists/kss_aduio_text_train_filelist.txt',
+        validation_files='filelists/kss_aduio_text_val_filelist.txt',
+        text_cleaners=['korean_cleaners'],
+        # sort_by_length=False,
 
         ################################
         # Audio Parameters             #
@@ -43,18 +44,18 @@ def create_hparams(hparams_string=None, verbose=False):
 
         ################################
         # Model Parameters             #
-        ################################
-        n_symbols=len(symbols),
-        symbols_embedding_dim=512,
+        ################################ len(symbols.kor_symbols)
+        n_symbols= 80, 
+        symbols_embedding_dim=256,
 
         # Encoder parameters
         encoder_kernel_size=5,
         encoder_n_convolutions=3,
-        encoder_embedding_dim=512,
+        encoder_embedding_dim=256,
 
         # Decoder parameters
         n_frames_per_step=1,  # currently only 1 is supported
-        decoder_rnn_dim=1024,
+        decoder_rnn_dim=512,
         prenet_dim=256,
         max_decoder_steps=1000,
         gate_threshold=0.5,

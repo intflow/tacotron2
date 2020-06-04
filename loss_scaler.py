@@ -128,4 +128,3 @@ if __name__ == "__main__":
 
         # Update loss scale for next iteration
         loss_scaler.update_scale(has_overflow)
-
