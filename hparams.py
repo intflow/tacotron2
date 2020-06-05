@@ -25,10 +25,9 @@ def create_hparams(hparams_string=None, verbose=False):
         # Data Parameters             #
         ################################
         load_mel_from_disk=False,
-        training_files='filelists/kss_aduio_text_train_filelist.txt',
-        validation_files='filelists/kss_aduio_text_val_filelist.txt',
+        training_files='filelists/kss_audio_text_train_filelist.txt',
+        validation_files='filelists/kss_audio_text_val_filelist.txt',
         text_cleaners=['korean_cleaners'],
-        # sort_by_length=False,
 
         ################################
         # Audio Parameters             #
@@ -79,10 +78,10 @@ def create_hparams(hparams_string=None, verbose=False):
         # Optimization Hyperparameters #
         ################################
         use_saved_learning_rate=False,
-        learning_rate=1e-3,
+        learning_rate=1e-4,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=64,
+        batch_size=16,
         mask_padding=True  # set model's padded outputs to padded values
     )
 

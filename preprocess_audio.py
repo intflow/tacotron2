@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 from scipy.io.wavfile import write
 import librosa
 import numpy as np
@@ -11,7 +12,7 @@ trim_top_db = 23
 
 def preprocess_audio(file_list, silence_audio_size):
     for F in file_list:
-        f = open(F)
+        f = open(F, encoding="utf-8")
         R = f.readlines()
         f.close()
         print('='*5+F+'='*5)
