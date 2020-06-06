@@ -25,14 +25,14 @@ class TextMelLoader(torch.utils.data.Dataset):
             hparams.filter_length, hparams.hop_length, hparams.win_length,
             hparams.n_mel_channels, hparams.sampling_rate, hparams.mel_fmin,
             hparams.mel_fmax)
-        #random.seed(hparams.seed)
-        #random.shuffle(self.audiopaths_and_text)
+        random.seed(hparams.seed)
+        random.shuffle(self.audiopaths_and_text)
 
     def get_mel_text_pair(self, audiopath_and_text):
         
         # separate filename and text
         audiopath, text = audiopath_and_text[0], audiopath_and_text[1]
-        print("audiopath: ", audiopath)
+        #print("audiopath: ", audiopath)
 
         text = self.get_text(text)
         mel = self.get_mel(audiopath)

@@ -9,7 +9,7 @@ def create_hparams(hparams_string=None, verbose=False):
         # Experiment Parameters        #
         ################################
         epochs=500,
-        iters_per_checkpoint=500,
+        iters_per_checkpoint=100,
         seed=1234,
         dynamic_loss_scaling=True,
         fp16_run=False,
@@ -57,8 +57,8 @@ def create_hparams(hparams_string=None, verbose=False):
         prenet_dim=256,
         max_decoder_steps=1000,
         gate_threshold=0.5,
-        p_attention_dropout=0.4,
-        p_decoder_dropout=0.4,
+        p_attention_dropout=0.5,
+        p_decoder_dropout=0.5,
 
         # Attention parameters
         attention_rnn_dim=1024,
@@ -80,7 +80,7 @@ def create_hparams(hparams_string=None, verbose=False):
         learning_rate=1e-4,
         weight_decay=1e-6,
         grad_clip_thresh=1.0,
-        batch_size=16,
+        batch_size=32,
         mask_padding=True  # set model's padded outputs to padded values
     )
 
