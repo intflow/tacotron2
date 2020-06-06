@@ -1,0 +1,1 @@
+datasets/kss_sample/4/4_1840.wav|고구마가 덜 익었어요.
