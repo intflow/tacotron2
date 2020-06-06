@@ -1,6 +1,5 @@
 import tensorflow as tf
-from text import symbols
-
+from text.symbols import kor_symbols
 
 def create_hparams(hparams_string=None, verbose=False):
     """Create model hyperparameters. Parse nondefault from given string."""
@@ -43,8 +42,8 @@ def create_hparams(hparams_string=None, verbose=False):
 
         ################################
         # Model Parameters             #
-        ################################ len(symbols.kor_symbols)
-        n_symbols= len(symbols.kor_symbols),
+        ################################
+        n_symbols= len(kor_symbols),
         symbols_embedding_dim=512,
 
         # Encoder parameters
