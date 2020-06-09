@@ -2,3 +2,6 @@
 	path = waveglow
 	url = https://github.com/NVIDIA/waveglow
 	branch = master
+[submodule "melgan"]
+	path = melgan
+	url = https://github.com/intflow/melgan.git

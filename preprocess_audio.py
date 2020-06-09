@@ -34,8 +34,11 @@ def preprocess_audio(file_list, silence_audio_size):
         for i, r in enumerate(R):
             wav_file = r.split('|')[0]
             print(wav_file)
-            data, sampling_rate = librosa.load(wav_file)
-
+            data, sr_org = librosa.load(wav_file)
+            
+            #Resample audio
+            data = librosa.resample(data, sr_org, sr)
+            
             #Apply the filter
             data = signal.filtfilt(b,a, data)
 
@@ -46,6 +49,7 @@ def preprocess_audio(file_list, silence_audio_size):
             data_= librosa.effects.trim(data, top_db= trim_top_db, frame_length=trim_fft_size, hop_length=trim_hop_size)[0]
             data_ = data_*max_wav_value
             data_ = np.append(data_, [0.]*silence_audio_size)
+            data_ = np.append([0.]*silence_audio_size, data_)
             data_ = data_.astype(dtype=np.int16)
             write(wav_file, sr, data_)
             #print(len(data),len(data_))
@@ -60,7 +64,7 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser()
     parser.add_argument('-f', '--file_list', type=str, default='./filelists/kss_audio_text_test_filelist.txt',
                         help='file list to preprocess')
-    parser.add_argument('-s', '--silence_mel_padding', type=int, default=0,
+    parser.add_argument('-s', '--silence_mel_padding', type=int, default=1,
                         help='silence audio size is hop_length * silence mel padding')
     args = parser.parse_args()
     file_list = args.file_list.split(',')
