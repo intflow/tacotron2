@@ -42,7 +42,7 @@ def preprocess_audio(file_list, silence_audio_size):
             #Apply the filter
             data = signal.filtfilt(b,a, data)
 
-            data = data / np.abs(data).max() *0.999
+            data = data / np.abs(data).max() *0.9
             # get the noisy interval
             #non_silent_interval = librosa.effects.split(data, top_db=trim_top_db, hop_length=trim_hop_size)
             #print(non_silent_interval)
